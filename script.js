@@ -48,6 +48,7 @@ const targetWords = [
   "cluck",
   "spike",
   "mimic",
+  'lilac',
   "pound",
   "maxim",
   "linen",
